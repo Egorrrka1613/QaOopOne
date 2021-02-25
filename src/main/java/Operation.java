@@ -20,11 +20,29 @@ public class Operation {
             int valueFirst = Integer.parseInt(strFirst);
             int valueSecond = Integer.parseInt(strSecond);
 
-            System.out.println(valueFirst + " " + valueSecond + " " + operation);
+
+            switch (operation) {
+                case "+":
+                    Addition add = new Addition();
+                    add.execute(valueFirst, valueSecond);
+                    break;
+                case "-":
+                    Subtraction sub = new Subtraction();
+                    sub.execute(valueFirst, valueSecond);
+                    break;
+                case "*":
+                    Multiplication mult = new Multiplication();
+                    mult.execute(valueFirst, valueSecond);
+                    break;
+                case "/":
+                    Division div = new Division();
+                    div.execute(valueFirst, valueSecond);
+                    break;
+            }
         }
     }
 
-    void execute() {
-        System.out.println("null");
+    public void execute(int a, int b) {
+        System.out.println("default value");
     }
 }
