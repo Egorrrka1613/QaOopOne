@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8165bf-c879-4a54-9c2b-605c098e3306" name="Default Changelist" comment="final commit x2">
+    <list default="true" id="4d8165bf-c879-4a54-9c2b-605c098e3306" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -185,16 +185,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614287469617</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix">
+      <created>1614513018477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614513018477</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <MESSAGE value="fix" />
     <MESSAGE value="final commit" />
     <MESSAGE value="final commit x2" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit x2" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-900" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614280712462">
@@ -213,30 +231,31 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-822" y="276" key="Github.Dialog.Accounts.Choose/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614281453582" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1614512475416">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1614512883986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614287711417" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512475416" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1614512475416">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512883986" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1614512883986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614287711417" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512475416" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1614512475416">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512883986" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1614512883985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614287711417" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512475416" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1614512475416">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512883985" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1614512883986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614287711417" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512475416" />
-    <state x="-1091" y="84" key="Vcs.Push.Dialog.v2" timestamp="1614287481197">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614512883986" />
+    <state x="387" y="120" key="Vcs.Push.Dialog.v2" timestamp="1614513025425">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1091" y="84" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1614287481197" />
+    <state x="387" y="120" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614513025425" />
     <state x="581" y="130" key="new project wizard" timestamp="1614266598326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

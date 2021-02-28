@@ -19,8 +19,6 @@ public class Operation {
 
             String[] arrayValue = userWriteInConsole.split(" ");
 
-            System.out.println(arrayValue.length + " Длинна массива");
-
             if (arrayValue.length != 3) {
 
                 if (arrayValue[0].equals("quit")) {
